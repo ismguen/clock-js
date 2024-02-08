@@ -1,0 +1,30 @@
+html{
+    background-image: url("clouds.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.uhr{
+    text-align: center;
+    font-family: Orbitron;
+    border: solid 10px;
+    color: white;
+    font-size: 7em;
+    width: 900px;
+ 
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+}
+
+.uhr:hover{
+    color: powderblue;
+}
+
+
