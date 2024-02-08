@@ -10,7 +10,7 @@ A simple digital clock application implemented using HTML, CSS, and JavaScript.
 
 ## Installation
 
-1. Clone this repository using: `git clone https://github.com/your_username/your_clock_app.git`
+1. Clone this repository using: `git clone https://github.com/ismguen/clock-js.git`
 2. Open the HTML file in your preferred web browser.
 
 ## Preview
