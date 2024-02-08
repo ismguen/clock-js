@@ -19,7 +19,7 @@ A simple digital clock application implemented using HTML, CSS, and JavaScript.
 
 ## Link to Website
 
-[Clock App](link_to_your_clock_app)
+[Clock App](https://ismguen.github.io/clock-js/index.html)
 
 ## Technologies Used
 
